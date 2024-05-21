@@ -1,3 +1,5 @@
+- K.M. Sreejith,<strong> M. C. M. Jasir</strong>, P. S. Sunil, M.S. Rose, A.P. Saji, R. Agrawal et.al. “Geodetic Evidence for Cascading Landslide Motion Triggered by Extreme Rain Events at Joshimath, NW Himalaya." [[Geophysical Research Letters (2024)]](https://doi.org/10.1029/2023GL106427)
+- 
 - <strong>S. Li</strong>, K. Fan, A. Cao*, X. Yang*, Y. Liu, and C. Wang (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>Under Review.</strong> [[Code]](https://github.com/senli1073/LNRL)
 
 - X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2023). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>In Revision.</strong>
