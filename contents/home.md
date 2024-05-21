@@ -1,12 +1,12 @@
-He is currently pursuing a Master's Degree in computer science, at School of Computer Science and Technology, China University of Mining and Technology.
+He is currently pursuing a PhD in Geophysics, at Department of Geophysics, Andhra University.
 
 #### Email
-sli[at]cumt.edu.cn
+jasirinsar[at]gmail.com
 
 #### Education
-2022.08 - present, Computer Science and Technology, School of Computer Science and Technology, China University of Mining and Technology.
+2021.09 - present, PhD in Geophysics, at Department of Geophysics, Andhra University..
 
-2018.08 - 2022.06, Data Science and Big Data Technology, School of Computer Science and Technology, China University of Mining and Technology.
+2015.06 - 2017.06, Msc in Marine Geophysics, Department of Marine Geology and Geophysics, CUSAT.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Crustal Deformation, Earthuake cycle, InSAR.
