@@ -1,9 +1,14 @@
-He is currently working as a researche fellow in the Geoscience Division at the Space Applications Centre, Ahmedabad.
+I am currently working as a researche fellow in the Geoscience Division at the Space Applications Centre, Ahmedabad.
 
 #### Email
-jasirinsar[at]gmail.com
+jasirinsar@gmail.com
 
-jasirinsar[at]sac.gov.in
+jasirinsar@sac.gov.in
+
+
+#### Experience
+2019 - Present, Research Fellow (CSIR-JRF), at Space Applications Cente (ISRO), Ahmedabad.
+
 
 #### Education
 2021.09 - Present, PhD in Geophysics, at Department of Geophysics, Andhra University.
