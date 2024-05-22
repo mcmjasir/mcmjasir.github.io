@@ -1,9 +1,9 @@
-I am currently working as a researche fellow in the Geoscience Division at the Space Applications Centre, Ahmedabad.
+I am currently working as a research fellow in the Geoscience Division at Space Applications Centre, Ahmedabad.
 
 #### Email
-jasirinsar@gmail.com
+jasir.insar[at]gmail.com
 
-jasirinsar@sac.gov.in
+jasir[at]sac.gov.in
 
 
 #### Experience
