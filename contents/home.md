@@ -6,7 +6,7 @@ jasir[at]sac.isro.gov.in
 
 
 #### Experience
-2021.09 - 2021.10, Research Fellow (CSIR-JRF), at Space Applications Cente (ISRO), Ahmedabad.
+2019.09 - 2024, Research Fellow (CSIR-JRF), at Space Applications Cente (ISRO), Ahmedabad.
 
 
 #### Education
